@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-quote-pwa/static/css/main.88ba6312.css",
+    "main.js": "/my-quote-pwa/static/js/main.933a04f8.js",
+    "static/js/787.ff20a40c.chunk.js": "/my-quote-pwa/static/js/787.ff20a40c.chunk.js",
+    "service-worker.js": "/my-quote-pwa/service-worker.js",
+    "static/media/logo.svg": "/my-quote-pwa/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/my-quote-pwa/index.html",
+    "main.88ba6312.css.map": "/my-quote-pwa/static/css/main.88ba6312.css.map",
+    "main.933a04f8.js.map": "/my-quote-pwa/static/js/main.933a04f8.js.map",
+    "787.ff20a40c.chunk.js.map": "/my-quote-pwa/static/js/787.ff20a40c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ba6312.css",
+    "static/js/main.933a04f8.js"
+  ]
+}
